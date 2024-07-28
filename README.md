@@ -21,7 +21,7 @@ MyNews is a Flutter application designed to display the top headlines from a spe
 models/: Contains data models
 providers/: State management using Provider
 services/: API and Firebase services
-ui/: UI-related code (screens and widgets)
+views/: UI-related code (screens and widgets)
 utils/: Utility classes and functions
 
 ## Prerequisites
