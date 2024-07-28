@@ -56,4 +56,4 @@ git clone https://github.com/nikhar-tale/MyNews.git
 ```
 
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/img1.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
