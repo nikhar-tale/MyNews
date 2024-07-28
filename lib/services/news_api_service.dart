@@ -3,7 +3,6 @@ import 'package:http/http.dart' as http;
 import 'package:my_news/models/news_article.dart';
 
 class NewsApiService {
-
   final String _baseUrl = 'https://newsapi.org/v2';
 
   Future<List<NewsArticle>> fetchNews(String countryCode, String apiKey) async {

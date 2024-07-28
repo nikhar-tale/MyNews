@@ -28,6 +28,20 @@ utils/: Utility classes and functions
 - Firebase Project: [Create a Firebase Project](https://firebase.google.com/)
 - NewsAPI Key: [Get API Key](https://newsapi.org/)
 
+## Building the APK
+To build the APK with optimized size, use the following command:
+
+```sh
+flutter build apk --split-per-abi
+```
+
+This command generates separate APKs for different ABIs (Application Binary Interfaces), resulting in smaller APK sizes. Users download only the APK that matches their device's ABI, reducing download time and saving storage space.
+
+**Optimized App Build**
+- https://drive.google.com/file/d/1MuL4o0pG8erQeWwOazNBtHeP541gFXHi/view?usp=sharing
+
+
+
 
 ## Setup
 
@@ -35,7 +49,7 @@ utils/: Utility classes and functions
 
 ```sh
 git clone https://github.com/your-username/MyNews.git
-cd MyNews
+
 
 
 
