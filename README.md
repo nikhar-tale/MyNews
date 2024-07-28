@@ -54,6 +54,3 @@ This command generates separate APKs for different ABIs (Application Binary Inte
 ```sh
 git clone https://github.com/nikhar-tale/MyNews.git
 ```
-
-
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/img1.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
