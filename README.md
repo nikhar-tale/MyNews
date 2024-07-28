@@ -48,7 +48,7 @@ This command generates separate APKs for different ABIs (Application Binary Inte
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/MyNews.git
+git clone https://github.com/nikhar-tale/MyNews.git
 
 
 
