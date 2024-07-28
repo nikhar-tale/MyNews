@@ -2,6 +2,8 @@
 
 MyNews is a Flutter application designed to display the top headlines from a specified country using the NewsAPI. The app utilizes Firebase for authentication and Remote Config to dynamically update the country code for fetching news. This project showcases the integration of various services and follows industry-standard practices for mobile app development.
 
+
+
 ## Features
 
 - **Firebase Authentication**: Supports email and password authentication.
@@ -37,8 +39,10 @@ flutter build apk --split-per-abi
 
 This command generates separate APKs for different ABIs (Application Binary Interfaces), resulting in smaller APK sizes. Users download only the APK that matches their device's ABI, reducing download time and saving storage space.
 
-**Optimized App Build**
-- https://drive.google.com/file/d/1MuL4o0pG8erQeWwOazNBtHeP541gFXHi/view?usp=sharing
+
+**App Build** : https://drive.google.com/file/d/1MuL4o0pG8erQeWwOazNBtHeP541gFXHi/view?usp=sharing
+**Video Demonstration** : https://drive.google.com/file/d/1ES0HDRxqfoyh90jWvm-QEtrDxPvzcQeJ/view?usp=sharing
+
 
 
 
