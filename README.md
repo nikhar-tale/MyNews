@@ -7,7 +7,7 @@ MyNews is a Flutter application designed to display the top headlines from a spe
 - **Firebase Authentication**: Supports email and password authentication.
 - **User Data Collection**: Collects and stores user details (name, email) in Firestore under the user collection.
 - **News Feed**: Displays the top headlines from a specified country fetched from NewsAPI.
-- **Remote Config**: Dynamically updates the country code used to fetch news from Firebase Remote Config.
+- **Remote Config**: Dynamically updates the country code and API key used to fetch news from Firebase Remote Config.
 - **Form Validation**: Includes proper form validation for login and sign-up screens.
 - **Error Handling**: Implements error handling for API and Firebase interactions.
 - **State Management**: Utilizes Provider for state management.
