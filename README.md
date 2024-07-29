@@ -14,6 +14,8 @@ MyNews is a Flutter application designed to display the top headlines from a spe
 - **Error Handling**: Implements error handling for API and Firebase interactions.
 - **State Management**: Utilizes Provider for state management.
 - **MVVM Architecture**: The app follows the MVVM (Model-View-ViewModel) architecture for organized code structure and separation of concerns.
+- **Custom Font**: Uses the "Poppins" font from Google Fonts for a clean and modern look.
+
 
 ## Project Structure
 
@@ -29,6 +31,21 @@ utils/: Utility classes and functions
 - Flutter SDK >= v3.7.10: [Installation Guide](https://flutter.dev/docs/get-started/install)
 - Firebase Project: [Create a Firebase Project](https://firebase.google.com/)
 - NewsAPI Key: [Get API Key](https://newsapi.org/)
+
+## dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.2 
+  firebase_auth: ^4.16.0 
+  cloud_firestore: ^4.14.0 
+  provider: ^6.1.2 
+  http: ^0.13.6 
+  firebase_remote_config: ^4.3.8
+  google_fonts: ^4.0.4
+  shimmer: ^3.0.0
+  intl: ^0.18.1
+
+
 
 ## Building the APK
 To build the APK with optimized size, use the following command:
