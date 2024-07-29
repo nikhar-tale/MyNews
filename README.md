@@ -47,7 +47,7 @@ utils/: Utility classes and functions
 
 
 
-## Building the APK
+## Optimized App
 To build the APK with optimized size, use the following command:
 
 ```sh
